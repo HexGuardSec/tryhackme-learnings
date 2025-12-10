@@ -1,5 +1,9 @@
 # 📘 TryHackMe Learnings
 
+![Status](https://img.shields.io/badge/Status-Learning-blue)
+![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
+![Progress](https://img.shields.io/badge/Progress-Ongoing-yellow)
+
 Welcome to my TryHackMe Learning Repository!  
 This repo documents my journey through various cybersecurity and IT modules on TryHackMe, focusing on building my skills in networking, Linux, Windows, and security.
 
