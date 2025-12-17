@@ -1,31 +1,11 @@
 # 📘 TryHackMe Learnings
 
-## 📌 Overview
+![Status](https://img.shields.io/badge/Status-Learning-blue)
+![Platform](https://img.shields.io/badge/Platform-TryHackMe-green)
+![Progress](https://img.shields.io/badge/Progress-Ongoing-yellow)
 
-This repository documents my learning journey on **TryHackMe**, focusing on **cybersecurity fundamentals, SOC concepts, and system-oriented security knowledge**.
-
-It is used as a **structured learning log** to capture:
-- key concepts
-- operational logic
-- investigation methodologies
-
-rather than as a full technical lab repository.
-
-Hands-on, enterprise-style scenarios (Linux and Windows audits, incidents, remediation) are documented separately in dedicated repositories.
-
----
-
-## 🎯 Scope of Learning
-
-Through TryHackMe, I focus on understanding how security and IT operate in **real-world environments**, especially for:
-
-- SOC Tier 1 operations
-- Alert triage and reporting
-- Security awareness (e.g. phishing)
-- System and network fundamentals
-- The relationship between security monitoring and Internal IT operations
-
----
+Welcome to my TryHackMe Learning Repository!  
+This repo documents my journey through various cybersecurity and IT modules on TryHackMe, focusing on building my skills in networking, Linux, Windows, and security.
 
 ## 📂 Repository Structure
 
